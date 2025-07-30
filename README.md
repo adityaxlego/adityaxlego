@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adityaxlego
 - 👀 I’m interested in Technology and Software
-- 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on multiple projects
 
 <!---
